@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nickname": "admin",
+            "email": "admin@163.com",
+            "password": "admin111",
+            "type": 1
+        },
+        {
+            "id": 2,
+            "nickname": "curry",
+            "email": "curry@163.com",
+            "password": "curry111",
+            "type": 0
+        },
+        {
+            "id": 3,
+            "email": "asas@gmail.com",
+            "password": "wqwqww",
+            "nickname": "sasas",
+            "type": 0
+        },
+        {
+            "id": 4,
+            "email": "yahoo@gmial.com",
+            "password": "1123333",
+            "nickname": "wqwqwqw",
+            "type": 0
+        },
+        {
+            "id": 5,
+            "email": "louise@163.com",
+            "password": "louise",
+            "nickname": "Louise",
+            "type": 0
+        }
+       
+    ]
+}

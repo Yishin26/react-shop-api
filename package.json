@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "json-server": "^0.15.1",
+        "jsonwebtoken": "^8.5.1"
+    },
+    "scripts": {
+        "server": "node server.js"
+    },
+    "license": "MIT"
+}

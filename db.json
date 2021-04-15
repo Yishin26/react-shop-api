@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Air Jordan 4",
+      "image": "/images/1.jpg",
+      "tags": "92 ",
+      "price": "59440",
+      "status": "available"
+    },
+    {
+      "name": "Nike Paul George PG 3",
+      "price": "53800",
+      "tags": "25 Colors",
+      "image": "/images/2.jpg",
+      "status": "available",
+      "id": 2
+    },
+    {
+      "name": "Jordan Why Not Zer0.2",
+      "price": 48905,
+      "tags": "16 Color, y",
+      "image": "/images/3.jpg",
+      "status": "available",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Nike Air Foamposite One",
+      "price": "73148",
+      "tags": "84 Colors",
+      "image": "/images/4.jpg",
+      "status": "available"
+    },
+    {
+      "id": 5,
+      "name": "adidas Harden Vol.3",
+      "image": "/images/5.jpg",
+      "tags": "34 Colors",
+      "price": "46900",
+      "status": "available"
+    },
+    {
+      "id": 6,
+      "name": "Nike Zoom Kobe 1",
+      "image": "/images/6.jpg",
+      "tags": "26 Colors",
+      "price": "80391",
+      "status": "available"
+    },
+    {
+      "id": 7,
+      "name": "Nike Hyperdunk X(2018)",
+      "image": "/images/7.jpg",
+      "tags": "",
+      "price": "54600",
+      "status": "available"
+    },
+    {
+      "id": 8,
+      "name": "Nike KD 12",
+      "image": "/images/8.jpg",
+      "tags": "",
+      "price": "81800",
+      "status": "available"
+    },
+    {
+      "name": "adidas D.O.N. Issue #1",
+      "price": "38800",
+      "status": "available",
+      "tags": "",
+      "image": "/images/9.jpg",
+      "id": 9
+    },
+    {
+      "name": "adidas D.O.N. Issue #1",
+      "price": 48903,
+      "tags": "",
+      "image": "/images/10.jpg",
+      "status": "available",
+      "id": 10
+    },
+    {
+      "name": "Nike Kyrie Flytrap",
+      "price": "34400",
+      "status": "available",
+      "tags": "",
+      "image": "/images/11.jpg",
+      "id": 11
+    },
+    {
+      "name": "Air Jordan 3",
+      "price": "44900",
+      "status": "available",
+      "tags": "",
+      "image": "/images/12.jpg",
+      "id": 12
+    },
+    {
+      "name": "Tesr",
+      "price": 1111,
+      "tags": "",
+      "image": "/images/1.jpg",
+      "status": "available",
+      "id": 13
+    }
+  ],
+  "carts": [
+    {
+      "productId": 1,
+      "name": "Air Jordan 4",
+      "image": "/images/1.jpg",
+      "price": "59440",
+      "mount": 5,
+      "userId": "asas@gmail.com",
+      "id": 4
+    }
+  ]
+}
