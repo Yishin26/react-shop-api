@@ -4,7 +4,8 @@
         "jsonwebtoken": "^8.5.1"
     },
     "scripts": {
-        "server": "node server.js"
+        "server": "node server.js",
+        "start": "json-server --watch db.json --port 3003"
     },
     "license": "MIT"
 }
